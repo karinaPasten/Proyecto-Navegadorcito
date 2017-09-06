@@ -7,7 +7,7 @@ class Servidor:
 	def __init__(self):
 		print ("Configurando Parametros ...")
 		self.host = '127.0.0.1'
-		self.port = 9101
+		self.port = 9100
 		self.www = 'documentRoot'		
 
 	def iniciar_servidor(self):	
